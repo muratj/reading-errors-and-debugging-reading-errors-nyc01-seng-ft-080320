@@ -4,4 +4,4 @@ x = 1
 
 p x
 
-"hello " + 1
+"hello ".to_i + 1
